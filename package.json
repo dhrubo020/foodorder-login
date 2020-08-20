@@ -5,7 +5,7 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "connect-redis-sessions": "^2.1.1",
     "cookie-parser": "^1.4.4",
     "cryptr": "^4.0.2",
